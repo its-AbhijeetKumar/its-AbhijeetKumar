@@ -1,5 +1,5 @@
 :pushpin:**Hi there !**, *@its-AbhijeetKumar* but **U can call me** Abhi~~jeet~~.
-:label:<img align="right" width="500" height="300" src="https://user-images.githubusercontent.com/79626965/133138729-ad132203-c154-4405-9633-ce6cd7baf9ae.gif">
+:label:<img align="right" width="500" height="300" src="https://user-images.githubusercontent.com/79626965/133147001-933168fe-f730-4e07-90db-119b2fec6537.gif">
 
 :house:**Home Town**: _Ranchi_
 
@@ -15,7 +15,7 @@
 
 :file_folder:**Wanna Know me more...,**[:paperclip:click me:grey_exclamation:](https://github.com/its-AbhijeetKumar/its-AbhijeetKumar/files/7156469/Resume_Olivee1.pdf)
 
-:briefcase:**Linkedin_Acc. url :-**[iam-abhijeet-kr](www.linkedin.com/in/iam-abhijeet-kr)
+:briefcase:**Linkedin_Acc. url :-**[iam-abhijeet-kr](www.linkedin.com/in/iam-abhijeet-kr)<img align="right" width="500" height="500" src="https://user-images.githubusercontent.com/79626965/133146439-79880554-e5f4-4f36-a307-a39cf8969ec5.gif">
 
 :e-mail: **G-Mail Acc**: _parallaxio.2019@gmail.com_
 
@@ -27,12 +27,11 @@
 
 :syringe:**Partially Vaccinated**: *Covid-Shield*
 
-
-
-
-
 :medal_military:     :india:     :low_brightness:     :male_sign:     :taurus:     :om:     :sun_behind_rain_cloud:     :link:
 
 :battery:
 
 :wastebasket:**_DUSTBIN_**
+<p align="center">
+ <img width="800" height="300" src="https://user-images.githubusercontent.com/79626965/133148548-0d7a7211-0ed4-4fe8-95a0-908960e9aa95.gif"> 
+</p>
