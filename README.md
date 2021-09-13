@@ -6,4 +6,4 @@
 
 *Linkedin_Acc. url :-*[iam-abhijeet-kr](www.linkedin.com/in/iam-abhijeet-kr)
 
-![6566](https://user-images.githubusercontent.com/79626965/133138729-ad132203-c154-4405-9633-ce6cd7baf9ae.gif)
+   ![6566](https://user-images.githubusercontent.com/79626965/133138729-ad132203-c154-4405-9633-ce6cd7baf9ae.gif)
