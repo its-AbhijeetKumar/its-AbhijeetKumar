@@ -28,7 +28,11 @@
 :syringe:**Partially Vaccinated**: *Covid-Shield*
 
 
+
+
+
 :medal_military:     :india:     :low_brightness:     :male_sign:     :taurus:     :om:     :sun_behind_rain_cloud:     :link:
 
 :battery:
-                                                                                                                                                                      :wastebasket:
+
+**_DUSTBIN_**:wastebasket:
