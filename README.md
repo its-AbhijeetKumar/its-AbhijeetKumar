@@ -1,4 +1,4 @@
-**Hi there !**, *@its-AbhijeetKumar* but **U can call me** *Abhi*
+**Hi there !**, *@its-AbhijeetKumar* but **U can call me** *Abhi~~jeet~~*
 
 **I'm a **_Singer_** & a **_Programmer_**.
 
