@@ -4,6 +4,6 @@
 
 **I'm a ~~Aspiring~~ **_Singer_** & a **_Programmer_** in _Learning Stage_.**
 
-**Resume-** [Resume-Abhijeet Kumar.pdf](https://github.com/its-AbhijeetKumar/its-AbhijeetKumar/files/7156469/Resume_Olivee1.pdf)
+*Want 2 Kow me...,click on this-->* [Resume.pdf](https://github.com/its-AbhijeetKumar/its-AbhijeetKumar/files/7156469/Resume_Olivee1.pdf)
 
 
