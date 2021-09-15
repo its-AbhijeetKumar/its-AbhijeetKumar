@@ -23,7 +23,7 @@
 
 :telephone_receiver: **Call Me**: 0101010100
 
-:drop_of_blood:**Blood Grp**: *-Ve*
+:drop_of_blood:**Blood Grp**: *A-ve*
 
 :syringe:**Partially Vaccinated**: *Covid-Shield*
 
