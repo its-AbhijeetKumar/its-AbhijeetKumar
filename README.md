@@ -17,9 +17,9 @@
 
 :briefcase:**Linkedin_Acc. url :-**[iam-abhijeet-kr](www.linkedin.com/in/iam-abhijeet-kr)<img align="right" width="500" height="500" src="https://user-images.githubusercontent.com/79626965/133146439-79880554-e5f4-4f36-a307-a39cf8969ec5.gif">
 
-:e-mail: **G-Mail Acc**: _parallaxio.2019@gmail.com_
+:e-mail: **G-Mail Id**: _parallaxio.2019@gmail.com_
 
-:envelope: **E-Mail Acc**: _abhijeet_kumar-mca20@lbsim.ac.in_
+:envelope: **E-Mail Id**: _abhijeet_kumar-mca20@lbsim.ac.in_
 
 :telephone_receiver: **Call Me**: 0101010100
 
