@@ -5,7 +5,7 @@
 
 :date:**D.O.B**: *11/11/1997*:tada::confetti_ball:
 
-**I'm a :studio_microphone:**_Singer_**:headphones: & a **_Programmer_**:desktop_computer:
+**I'm a :studio_microphone:**_Singer_**:headphones: & a **_Tech Guy_**:desktop_computer:
 
 :small_airplane:**Delhi**: _College_:school:
 
