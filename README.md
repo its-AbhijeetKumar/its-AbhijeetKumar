@@ -1,5 +1,5 @@
-:pushpin:**Hi there !**, *@its-AbhijeetKumar* but **U can call me** Abhi~~jeet~~.
-:label:<img align="right" width="500" height="300" src="https://user-images.githubusercontent.com/79626965/133147001-933168fe-f730-4e07-90db-119b2fec6537.gif">
+## Hi there ! , [_its-AbhijeetKumarSingh_](https://github.com/its-AbhijeetKumar/its-AbhijeetKumar/files/7156469/Resume_Olivee1.pdf) call me [_Abhi~~jeet~~_](https://github.com/its-AbhijeetKumar/its-AbhijeetKumar/files/7156469/Resume_Olivee1.pdf).
+:pushpin: :label:<img align="right" width="500" height="300" src="https://user-images.githubusercontent.com/79626965/133147001-933168fe-f730-4e07-90db-119b2fec6537.gif">
 
 :house:**Home Town**: _Ranchi_
 
@@ -15,7 +15,7 @@
 
 :file_folder:**Wanna Know me more...,**[:paperclip:click me:grey_exclamation:](https://github.com/its-AbhijeetKumar/its-AbhijeetKumar/files/7156469/Resume_Olivee1.pdf)
 
-:briefcase:**Linkedin_Acc. url :-**[iam-abhijeet-kr](www.linkedin.com/in/iam-abhijeet-kr)<img align="right" width="500" height="500" src="https://user-images.githubusercontent.com/79626965/133146439-79880554-e5f4-4f36-a307-a39cf8969ec5.gif">
+:briefcase:**Linkedin_Acc. url :-**
 
 :e-mail: **G-Mail Id**: _parallaxio.2019@gmail.com_
 
