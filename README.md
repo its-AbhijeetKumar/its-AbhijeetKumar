@@ -1,4 +1,4 @@
-## Hi there ! , [_its-AbhijeetKumarSingh_](https://github.com/its-AbhijeetKumar/its-AbhijeetKumar/files/7156469/Resume_Olivee1.pdf) call me [_Abhi~~jeet~~_](https://github.com/its-AbhijeetKumar/its-AbhijeetKumar/files/7156469/Resume_Olivee1.pdf).
+## Hi there ! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> [_its-AbhijeetKumarSingh_](https://github.com/its-AbhijeetKumar/its-AbhijeetKumar/files/7156469/Resume_Olivee1.pdf) call me [_Abhi-~~jeet~~_](https://github.com/its-AbhijeetKumar/its-AbhijeetKumar/files/7156469/Resume_Olivee1.pdf).
 :pushpin: :label:<img align="right" width="500" height="300" src="https://user-images.githubusercontent.com/79626965/133147001-933168fe-f730-4e07-90db-119b2fec6537.gif">
 
 :house:**Home Town**: _Ranchi_
@@ -32,6 +32,3 @@
 :battery:
 
 :wastebasket:**_DUSTBIN_**
-<p align="center">
- <img width="800" height="300" src="https://user-images.githubusercontent.com/79626965/133148548-0d7a7211-0ed4-4fe8-95a0-908960e9aa95.gif"> 
-</p>
