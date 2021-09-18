@@ -3,7 +3,7 @@
 <p align ="right" >:link::sun_behind_rain_cloud::low_brightness::headphones::signal_strength::battery::zap:</p>
 
 :pushpin:
-<img align="right" width="600" height="450" src="https://user-images.githubusercontent.com/79626965/133881400-12f08693-4ccc-4fa2-a433-30035ea4cce9.gif">
+<img align="right" width="550" height="400" src="https://user-images.githubusercontent.com/79626965/133881400-12f08693-4ccc-4fa2-a433-30035ea4cce9.gif">
 
 :india::medal_military:
 
