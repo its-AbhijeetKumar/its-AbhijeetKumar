@@ -1,4 +1,4 @@
-## :label: Hi there ! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">[_Abhijeet Kumar Singh_](https://github.com/its-AbhijeetKumar/its-AbhijeetKumar/files/7156469/Resume_Olivee1.pdf) this side, call me [_Abhi-~~jeet~~_](https://github.com/its-AbhijeetKumar/its-AbhijeetKumar/files/7156469/Resume_Olivee1.pdf)
+## :label: Hi there ! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">[_Abhijeet Kumar Singh_](https://github.com/its-AbhijeetKumar/its-AbhijeetKumar/files/7156469/Resume_Olivee1.pdf) this side, call me [_Abhi~~jeet~~_](https://github.com/its-AbhijeetKumar/its-AbhijeetKumar/files/7156469/Resume_Olivee1.pdf)
 
 <p align ="right" >:link::sun_behind_rain_cloud::low_brightness::headphones::signal_strength::battery::zap:</p>
 
