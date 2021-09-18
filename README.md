@@ -25,10 +25,22 @@
 
 :syringe:**Partially Vaccinated**: *Covi-Shield*     
 
+### Languages and Tools:-
+
+<img align="left" width="30" height="30" src="https://user-images.githubusercontent.com/79626965/133884785-a6609762-c0bd-4ae1-92de-f6847332b880.png"/>
+<img align="left" width="30" height="30" src="https://user-images.githubusercontent.com/79626965/133884791-ff26a12b-7d75-4f74-9ce4-f469c37917a3.png"/>
+<img align="left" width="30" height="30" src="https://user-images.githubusercontent.com/79626965/133884876-b7704f5f-4d3e-45fc-b6b7-859c5f078eb4.png"/>
+<img align="left" width="30" height="30" src="https://user-images.githubusercontent.com/79626965/133884798-7d0a1b59-72de-4ae1-b966-7a702abd97ae.png"/>
+<img align="left" width="30" height="30" src="https://user-images.githubusercontent.com/79626965/133884810-3b8c3692-7451-41cd-a296-6c1f1b400e4e.png"/>
+<img align="left" width="30" height="30" src="https://user-images.githubusercontent.com/79626965/133884820-7093e69c-1949-4cf6-8140-83816a82a141.png"/>
+<img align="left" width="30" height="30" src="https://user-images.githubusercontent.com/79626965/133884841-9bfc1c88-918a-49ef-9eca-a8806ccf914e.png"/>
+<img width="30" height="30" src="https://user-images.githubusercontent.com/79626965/133884856-f32b9674-3db5-437c-b60e-254ad6c283a3.png"/>
+
 **_Use Me_**:wastebasket:
+<hr>
 
 <a href="https://github.com/its-AbhijeetKumar/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=its-AbhijeetKumar&repo=github-readme-stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=its-AbhijeetKumar&repo=Flutter-and-Dart-Warm-up." />
 </a>
 
 ![Abhijeet's GitHub stats](https://github-readme-stats.vercel.app/api?username=its-AbhijeetKumar&show_icons=true&theme=dark)
