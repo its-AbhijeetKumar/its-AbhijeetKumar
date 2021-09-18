@@ -1,39 +1,36 @@
-<hr>
+## :label: Hi there ! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">[_Abhijeet Kumar Singh_](https://github.com/its-AbhijeetKumar/its-AbhijeetKumar/files/7156469/Resume_Olivee1.pdf) this side, call me [_Abhi-~~jeet~~_](https://github.com/its-AbhijeetKumar/its-AbhijeetKumar/files/7156469/Resume_Olivee1.pdf)
 
-### Hi there ! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> [_Abhijeet Kumar Singh_](https://github.com/its-AbhijeetKumar/its-AbhijeetKumar/files/7156469/Resume_Olivee1.pdf) this side, U can call me [_Abhi-~~jeet~~_](https://github.com/its-AbhijeetKumar/its-AbhijeetKumar/files/7156469/Resume_Olivee1.pdf)_______________________:link::low_brightness::headphones::signal_strength::battery::zap:
-<hr>
+<p align ="right" >:link::sun_behind_rain_cloud::low_brightness::headphones::signal_strength::battery::zap:</p>
 
 :pushpin:
+<img align="right" width="600" height="450" src="https://user-images.githubusercontent.com/79626965/133881400-12f08693-4ccc-4fa2-a433-30035ea4cce9.gif">
 
-**Gender:** **Male**(:male_sign:) , **Boy**.
+:india::medal_military:
+
+**Gender:** **Male** (:male_sign:)
 
 :headphones: **I'm an _Aspiring_Singer_ & _Tech_Guy._**:man_technologist:
+
+:briefcase: Musician | Band ([_Alfaaz_]())
 
 :house:**Home Town**: Ranchi.
 
 :confetti_ball: *11/11/1997*
 
-:heart:2 Travel:airplane:.
+:heart:2 Travel:tokyo_tower::airplane:.
 
-:school_satchel:**Master's From**: _LBSIM,Delhi Affliated to GGSIPU 2020-2022_
+:telephone_receiver: 0101010100
 
-:mortar_board:**Graduated From**: _BIT,Mesra-Ranchi 2017-2020_
+:drop_of_blood: *A-ve*
 
-:file_folder:**Wanna Know me more...,**[:paperclip:click me:grey_exclamation:](https://github.com/its-AbhijeetKumar/its-AbhijeetKumar/files/7156469/Resume_Olivee1.pdf)
+:syringe:**Partially Vaccinated**: *Covi-Shield*     
 
-:briefcase:**Linkedin_Acc. url :-**
+**_Use Me_**:wastebasket:
 
-:telephone_receiver: **Call Me**: 0101010100
-
-:drop_of_blood:**Blood Grp**: *A-ve*
-
-:syringe:**Partially Vaccinated**: *Covi-Shield*
-
-:medal_military:     :india:     :low_brightness:          :taurus:     :om:     :sun_behind_rain_cloud:     :link:
-
-:label: **_Use Me_**:wastebasket:
-
-_________________________ _TeamCollaborators Copyright :copyright: 2017-2021 | [_Abhijeet Kumar Singh_](https://github.com/its-AbhijeetKumar/its-AbhijeetKumar/files/7156469/Resume_Olivee1.pdf). All rights reserved._ ___________________________
+<hr>
+<p align="center">
+  TeamCollaborators Copyright :copyright: 2017-2021 | Abhijeet Kumar Singh. All rights reserved.
+</p>  
 
 <p align="center">
   <img width="80" height="80" src="https://user-images.githubusercontent.com/79626965/133842711-f3f67127-1fcf-491e-a6fe-1376a562ad2c.png"/>
