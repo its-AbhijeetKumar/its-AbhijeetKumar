@@ -27,12 +27,21 @@
 
 **_Use Me_**:wastebasket:
 
+<a href="https://github.com/its-AbhijeetKumar/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=its-AbhijeetKumar&repo=github-readme-stats" />
+</a>
+
+![Abhijeet's GitHub stats](https://github-readme-stats.vercel.app/api?username=its-AbhijeetKumar&show_icons=true&theme=dark)
+![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=jeffreyca16&count=3)
+
 <hr>
 
 <p align="center">
   TeamCollaborators Copyright :copyright: 2017-2021 | Abhijeet Kumar Singh. All rights reserved.
 </p> 
 
+<p align="center">
+  Show some ❤️ by starring some of the repositories!
 <p align="center">
   <img width="80" height="80" src="https://user-images.githubusercontent.com/79626965/133842711-f3f67127-1fcf-491e-a6fe-1376a562ad2c.png"/>
 </p>
@@ -46,3 +55,4 @@
 [<img align="right" width="30" height="30" src="https://user-images.githubusercontent.com/79626965/133837395-d9041459-4943-4e4b-b553-72f654d5c520.png">]()
 [<img align="right" width="30" height="30" src="https://user-images.githubusercontent.com/79626965/133845883-df30a8d8-6752-436e-86d6-643e8416ecb6.png">]()
 [<img align="right" width="30" height="30" src="https://user-images.githubusercontent.com/79626965/133846326-d863fc46-ea95-4bcb-9c3b-db146edfedd8.png">]()
+[<img align="right" width="30" height="30" src="https://user-images.githubusercontent.com/79626965/133881932-8bb52b6f-202e-4637-a5dd-cbdd85a417ea.png">]()
