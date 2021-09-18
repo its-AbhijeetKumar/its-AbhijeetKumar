@@ -1,4 +1,6 @@
- ### Hi there ! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> [_Abhijeet Kumar Singh_](https://github.com/its-AbhijeetKumar/its-AbhijeetKumar/files/7156469/Resume_Olivee1.pdf) this side, U can call me [_Abhi-~~jeet~~_](https://github.com/its-AbhijeetKumar/its-AbhijeetKumar/files/7156469/Resume_Olivee1.pdf)_______________________:link::low_brightness::headphones::signal_strength::battery::zap:
+<hr>
+
+### Hi there ! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> [_Abhijeet Kumar Singh_](https://github.com/its-AbhijeetKumar/its-AbhijeetKumar/files/7156469/Resume_Olivee1.pdf) this side, U can call me [_Abhi-~~jeet~~_](https://github.com/its-AbhijeetKumar/its-AbhijeetKumar/files/7156469/Resume_Olivee1.pdf)_______________________:link::low_brightness::headphones::signal_strength::battery::zap:
 <hr>
 
 :pushpin:
