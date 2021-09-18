@@ -40,7 +40,7 @@
 
 <hr>
 
-![Abhijeet's GitHub stats](https://github-readme-stats.vercel.app/api?username=its-AbhijeetKumar&show_icons=true&theme=dark)<img align="right" width="400" height="300" src="https://user-images.githubusercontent.com/79626965/133888037-6ef8048c-d5d4-4e3b-be7d-dd8e8dbe3e68.jpeg">
+![Abhijeet's GitHub stats](https://github-readme-stats.vercel.app/api?username=its-AbhijeetKumar&show_icons=true&theme=dark)<img align="right" width="400" height="400" src="https://user-images.githubusercontent.com/79626965/133888037-6ef8048c-d5d4-4e3b-be7d-dd8e8dbe3e68.jpeg">
 ![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=jeffreyca16&count=3)
 
 
