@@ -40,8 +40,11 @@
 
 <hr>
 
+<img align="right" width="550" height="400" src="https://user-images.githubusercontent.com/79626965/133888037-6ef8048c-d5d4-4e3b-be7d-dd8e8dbe3e68.jpeg">
+
 ![Abhijeet's GitHub stats](https://github-readme-stats.vercel.app/api?username=its-AbhijeetKumar&show_icons=true&theme=dark)
 ![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=jeffreyca16&count=3)
+
 
 <a href="https://github.com/its-AbhijeetKumar/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=its-AbhijeetKumar&repo=Flutter-and-Dart-Warm-up." />
