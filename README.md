@@ -28,9 +28,10 @@
 **_Use Me_**:wastebasket:
 
 <hr>
+
 <p align="center">
   TeamCollaborators Copyright :copyright: 2017-2021 | Abhijeet Kumar Singh. All rights reserved.
-</p>  
+</p> 
 
 <p align="center">
   <img width="80" height="80" src="https://user-images.githubusercontent.com/79626965/133842711-f3f67127-1fcf-491e-a6fe-1376a562ad2c.png"/>
