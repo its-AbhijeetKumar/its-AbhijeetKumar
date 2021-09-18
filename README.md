@@ -33,15 +33,7 @@
 
 :label: **_Use Me_**:wastebasket:
 
-<hr>
-
 _________________________ _TeamCollaborators Copyright :copyright: 2017-2021 | [_Abhijeet Kumar Singh_](https://github.com/its-AbhijeetKumar/its-AbhijeetKumar/files/7156469/Resume_Olivee1.pdf). All rights reserved._ ___________________________
-
-<hr>
-
-__________________________________________ _parallaxio.2019@gmail.com_ | _abhijeet_kumar-mca20@lbsim.ac.in_ _________________________________
-
-<hr>
 
 <p align="center">
   <img width="80" height="80" src="https://user-images.githubusercontent.com/79626965/133842711-f3f67127-1fcf-491e-a6fe-1376a562ad2c.png"/>
