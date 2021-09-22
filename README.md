@@ -11,7 +11,7 @@
 
 :headphones: **I'm an _Aspiring_Singer_ & _Tech_Guy._**:man_technologist:
 
-:briefcase: Musician | Band ([_Alfaaz_]())
+:briefcase: Musician | Band ([_@Alfaaz_]())
 
 :house:**Home Town**: Ranchi.
 
