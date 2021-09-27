@@ -1,4 +1,4 @@
-## :label: Hi there ! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">[_Abhijeet Kumar Singh_](https://github.com/its-AbhijeetKumar/its-AbhijeetKumar/files/7156469/Resume_Olivee1.pdf) this side, call me [_Abhi~~jeet~~_](https://github.com/its-AbhijeetKumar/its-AbhijeetKumar/files/7156469/Resume_Olivee1.pdf)
+## :label: Hi there ! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">[_Abhijeet Kumar_](https://github.com/its-AbhijeetKumar/its-AbhijeetKumar/files/7156469/Resume_Olivee1.pdf) this side, call me [_Abhi~~jeet~~_](https://github.com/its-AbhijeetKumar/its-AbhijeetKumar/files/7156469/Resume_Olivee1.pdf)
 
 <p align ="right" >:link::sun_behind_rain_cloud::low_brightness::headphones::signal_strength::battery::zap:</p>
 
@@ -40,7 +40,6 @@
 
 <hr>
 
-![Abhijeet's GitHub stats](https://github-readme-stats.vercel.app/api?username=its-AbhijeetKumar&show_icons=true&theme=dark)<img align="right" width="400" height="350" src="https://user-images.githubusercontent.com/79626965/133888037-6ef8048c-d5d4-4e3b-be7d-dd8e8dbe3e68.jpeg">
 ![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=jeffreyca16&count=3)
 
 
