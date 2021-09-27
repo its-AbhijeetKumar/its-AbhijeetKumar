@@ -59,13 +59,13 @@
   <img width="80" height="80" src="https://user-images.githubusercontent.com/79626965/133842711-f3f67127-1fcf-491e-a6fe-1376a562ad2c.png"/>
 </p>
 
-[<img align="right" width="30" height="30" src="https://user-images.githubusercontent.com/79626965/133871887-f15f728a-7143-4762-93dc-3e87dea27bf5.png">]()
+[<img align="right" width="30" height="30" src="https://user-images.githubusercontent.com/79626965/133871887-f15f728a-7143-4762-93dc-3e87dea27bf5.png">](https://www.youtube.com/)
 [<img align="right" width="30" height="30" src="https://user-images.githubusercontent.com/79626965/133849117-181bf0d9-90d6-4413-b802-5cbd1f13edd9.png"/>](https://github.com/its-AbhijeetKumar/its-AbhijeetKumar/files/7188283/What.s.App.Number.docx)
-[<img align="right" width="30" height="30" src="https://user-images.githubusercontent.com/79626965/133850121-067939f8-c4b8-4fd9-ae64-2aa7e1a81383.png">]()
-[<img align="right" width="30" height="30" src="https://user-images.githubusercontent.com/79626965/133839644-ba1b91ad-f37d-4e3f-8a6e-329ed1bb5bd8.png">]()
-[<img align="right" width="30" height="30" src="https://user-images.githubusercontent.com/79626965/133839566-e4454150-70e1-40e8-ac9e-1b78caad9c96.png">]()
-[<img align="right" width="30" height="30" src="https://user-images.githubusercontent.com/79626965/133841524-7cfd088f-39e1-4607-a4e6-353b862f5128.png">]()
-[<img align="right" width="30" height="30" src="https://user-images.githubusercontent.com/79626965/133837395-d9041459-4943-4e4b-b553-72f654d5c520.png">]()
-[<img align="right" width="30" height="30" src="https://user-images.githubusercontent.com/79626965/133845883-df30a8d8-6752-436e-86d6-643e8416ecb6.png">]()
-[<img align="right" width="30" height="30" src="https://user-images.githubusercontent.com/79626965/133846326-d863fc46-ea95-4bcb-9c3b-db146edfedd8.png">]()
-[<img align="right" width="30" height="30" src="https://user-images.githubusercontent.com/79626965/133881932-8bb52b6f-202e-4637-a5dd-cbdd85a417ea.png">]()
+[<img align="right" width="30" height="30" src="https://user-images.githubusercontent.com/79626965/133850121-067939f8-c4b8-4fd9-ae64-2aa7e1a81383.png">](https://twitter.com/l_its_abhi____l)
+[<img align="right" width="30" height="30" src="https://user-images.githubusercontent.com/79626965/133839644-ba1b91ad-f37d-4e3f-8a6e-329ed1bb5bd8.png">](https://web.telegram.org/)
+[<img align="right" width="30" height="30" src="https://user-images.githubusercontent.com/79626965/133839566-e4454150-70e1-40e8-ac9e-1b78caad9c96.png">](https://www.instagram.com/l_its_a.k_l/)
+[<img align="right" width="30" height="30" src="https://user-images.githubusercontent.com/79626965/133841524-7cfd088f-39e1-4607-a4e6-353b862f5128.png">](https://www.linkedin.com/in/iam-abhijeet-kr/)
+[<img align="right" width="30" height="30" src="https://user-images.githubusercontent.com/79626965/133837395-d9041459-4943-4e4b-b553-72f654d5c520.png">](https://www.facebook.com/profile.php?id=100006800536886)
+[<img align="right" width="30" height="30" src="https://user-images.githubusercontent.com/79626965/133845883-df30a8d8-6752-436e-86d6-643e8416ecb6.png">](https://github.com/its-AbhijeetKumar/its-AbhijeetKumar/files/7235996/Email.docx)
+[<img align="right" width="30" height="30" src="https://user-images.githubusercontent.com/79626965/133846326-d863fc46-ea95-4bcb-9c3b-db146edfedd8.png">](https://github.com/its-AbhijeetKumar/its-AbhijeetKumar/files/7235996/Email.docx)
+[<img align="right" width="30" height="30" src="https://user-images.githubusercontent.com/79626965/133881932-8bb52b6f-202e-4637-a5dd-cbdd85a417ea.png">](https://discord.com/)
