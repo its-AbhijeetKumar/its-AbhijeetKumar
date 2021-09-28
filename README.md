@@ -39,7 +39,7 @@
 **_Use Me_**:wastebasket:
 
 <hr>
-<img align="right" width="450" height="330" src="https://user-images.githubusercontent.com/79626965/134903985-cf71a6a2-77b2-41b8-bdb3-000262539031.gif">
+<img align="right" width="400" height="330" src="https://user-images.githubusercontent.com/79626965/134903985-cf71a6a2-77b2-41b8-bdb3-000262539031.gif">
 
 ![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=jeffreyca16&count=3)
 
