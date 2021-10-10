@@ -15,7 +15,7 @@
 
 :house:**Home Town**: Ranchi.
 
-:confetti_ball: *11/11/1997*
+:confetti_ball: *07/10/1997*
 
 :heart:2 Travel:tokyo_tower::airplane:.
 
@@ -51,7 +51,7 @@
 <hr>
 
 <p align="center">
-  TeamCollaborators Copyright :copyright: 2017-2021 | Abhijeet Kumar Singh. All rights reserved.
+  TeamCollaborators Copyright :copyright: 2017-2021 | Abhijeet Kumar. All rights reserved.
 </p> 
 
 <p align="center">
