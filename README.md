@@ -15,7 +15,7 @@
 
 :house:**Home Town**: Ranchi.
 
-:confetti_ball: *07/10/1997*
+:confetti_ball: *15/07/1998* 🎉
 
 :heart:2 Travel:tokyo_tower::airplane:.
 
@@ -40,13 +40,27 @@
 
 <hr>
 
-<img align="right" width="400" height="330" src="https://user-images.githubusercontent.com/79626965/134903985-cf71a6a2-77b2-41b8-bdb3-000262539031.gif">
+<img align="right" width="530" height="130" src="https://user-images.githubusercontent.com/79626965/143674135-fb31e267-621d-4ac4-94d6-2c13ea7eccf2.gif">
 
 ![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=jeffreyca16&count=3)
 
 
 <a href="https://github.com/its-AbhijeetKumar/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=its-AbhijeetKumar&repo=Flutter-and-Dart-Warm-up." />
+</a>
+
+<a href="https://github.com/its-AbhijeetKumar/github-readme-stats">
+  <img align="right" src="https://github-readme-stats.vercel.app/api/pin/?username=its-AbhijeetKumar&repo=To-Do-App" />
+</a>
+
+<p></p>
+
+<a href="https://github.com/its-AbhijeetKumar/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=its-AbhijeetKumar&repo=Github-Profile-Finder" />
+</a>
+
+<a href="https://github.com/its-AbhijeetKumar/github-readme-stats">
+  <img align="right" src="https://github-readme-stats.vercel.app/api/pin/?username=its-AbhijeetKumar&repo=Portfolio-UI-UX" />
 </a>
 
 <hr>
