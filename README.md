@@ -23,7 +23,7 @@
 
 :drop_of_blood: *A-ve*
 
-:syringe:**Partially Vaccinated**: *Covi-Shield*     
+:syringe:**Vaccinated**: *Covi-Shield*     
 
 ### Languages and Tools:-
 
@@ -40,7 +40,7 @@
 
 <hr>
 
-<img align="right" width="530" height="130" src="https://user-images.githubusercontent.com/79626965/143674135-fb31e267-621d-4ac4-94d6-2c13ea7eccf2.gif">
+<img align="right" width="500" height="130" src="https://user-images.githubusercontent.com/79626965/143674135-fb31e267-621d-4ac4-94d6-2c13ea7eccf2.gif">
 
 ![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=jeffreyca16&count=3)
 
