@@ -40,7 +40,7 @@
 
 <hr>
 
-<img align="right" width="500" height="200" src="https://user-images.githubusercontent.com/79626965/143675881-06c9637d-c8d0-4f95-81a2-ef84ecede4e7.gif">
+<img align="right" width="450" height="200" src="https://user-images.githubusercontent.com/79626965/143675881-06c9637d-c8d0-4f95-81a2-ef84ecede4e7.gif">
 
 ![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=jeffreyca16&count=3)
 
