@@ -15,7 +15,7 @@
 
 :house:**Home Town**: Ranchi.
 
-:confetti_ball: *15/07/1998* 🎉
+:confetti_ball: *15/__/19__* 🎉
 
 :heart:2 Travel:tokyo_tower::airplane:.
 
