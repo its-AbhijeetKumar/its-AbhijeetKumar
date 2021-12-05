@@ -69,7 +69,7 @@
 <p></p>
 
 <a href="https://github.com/its-AbhijeetKumar/github-readme-stats">
-  <img align="right" src="https://github-readme-stats.vercel.app/api/pin/?username=its-AbhijeetKumar&repo=Research-Paper-Report-2021" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=its-AbhijeetKumar&repo=Research-Paper-Report-2021" />
 </a>
 
 <hr>
