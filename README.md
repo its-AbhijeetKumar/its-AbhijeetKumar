@@ -75,6 +75,10 @@
 <hr>
 
 <p align="center">
+  <img width="100" height="50" src="https://user-images.githubusercontent.com/79626965/145707258-42a1773b-7eec-497f-bb6b-6bc7b6b525e1.png"/>
+</p>
+
+<p align="center">
   TeamCollaborators Copyright :copyright: 2017-2021 | Abhijeet Kumar. All rights reserved.
 </p> 
 
