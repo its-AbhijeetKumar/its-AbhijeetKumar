@@ -79,7 +79,7 @@
 </p>
 
 <p align="center">
-  TeamCollaborators Copyright :copyright: 2017-2021 | Abhijeet Kumar. All rights reserved.
+  TeamCollaborators Copyright :copyright: 2017-2022 | Abhijeet Kumar. All rights reserved.
 </p> 
 
 <p align="center">
